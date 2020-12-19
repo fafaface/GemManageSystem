@@ -62,6 +62,15 @@ python manage.py runserver
 
 
 
+Docker部署
+
+```
+docker-compose build
+docker-compose up -d
+```
+
+
+
 ### 界面展示
 
 1. 登录
